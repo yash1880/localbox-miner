@@ -1,3 +1,6 @@
+## Localbox-Miner-Screenshot 
+![screenshot project](https://github.com/yash1880/localbox-miner/blob/d195903fcc829d526ca3f6240796452b80bfd9c6/Screenshot%202026-04-14%20115623.png)
+
 # LocalBox Miner
 
 A React-based offline data management application that demonstrates state management, localStorage integration, CRUD operations, component communication, and event-driven UI updates.
